@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Java, 
+🌱 I’m currently learning Java, JS, React 
 📫 How to reach me: adrianh@uia.no
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
