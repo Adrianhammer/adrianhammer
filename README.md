@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Java, JS, React 
+🌱 I’m currently learning Java, JS, React & Python
 
 📫 How to reach me: adrianh@uia.no
 
