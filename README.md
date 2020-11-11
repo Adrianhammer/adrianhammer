@@ -83,12 +83,12 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1171496064&cover_image=true&theme=default" /></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Adrianhammer&&style=flat-square" align="center" />
 </div>  
   
 
