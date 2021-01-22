@@ -5,7 +5,7 @@
 ### <div align="center">I'm Adrian, an IT and information systems student at UIA Kristiansand</div>  
   
 
-- 🌱 I’m currently learning Java, Javascript, React.js  
+- 🌱 I’m currently learning Java, Python 
 
 - 📫 How to reach me: adrianh@uia.no
   
