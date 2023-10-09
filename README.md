@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Java, Javascript & PHP
 
-- 📫 How to reach me: adrianh@uia.no
+- 📫 How to reach me: adrian10hammer@gmail.com
   
 
 <br/>  
