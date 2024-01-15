@@ -2,10 +2,10 @@
 </div>  
   
 
-### <div align="center">I'm Adrian, an IT and information systems student at UIA Kristiansand</div>  
+### <div align="center">I'm Adrian, a Cloud Engineer Infrastructure Consultant</div>  
   
 
-- 🌱 I’m currently learning Java, Javascript & PHP
+- 🌱 I’m currently learning C# & .NET 8
 
 - 📫 How to reach me: adrian10hammer@gmail.com
   
