@@ -2,10 +2,10 @@
 </div>  
   
 
-### <div align="center">I'm Adrian, a Cloud Engineer Infrastructure Consultant</div>  
+### <div align="center">I'm Adrian, a Cloud Engineer Consultant</div>  
   
 
-- 🌱 I’m currently learning C# & .NET 8
+- 🌱 I’m currently learning C# & .NET 9
 
 - 📫 How to reach me: adrian10hammer@gmail.com
   
