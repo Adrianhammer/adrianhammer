@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">I'm Adrian, a I work with cloud engineering ☁️</div>  
+### <div align="center">Hi! I'm Adrian, I work with cloud engineering ☁️</div>  
   
 
 - 🌱 I’m currently learning C# & .NET 9
