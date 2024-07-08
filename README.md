@@ -5,7 +5,9 @@
 ### <div align="center">Hi! I'm Adrian, I work with cloud engineering ☁️</div>  
   
 
-- 🌱 I’m currently learning C# & .NET 9
+- 🌱 I’m currently learning C#/.NET 9 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="17" /></a>
+& Swift <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="27"/></a>  
+
 
 - 📫 How to reach me: adrian10hammer@gmail.com
   
