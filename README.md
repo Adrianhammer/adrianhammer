@@ -63,12 +63,6 @@
 
 </td><td valign="top" width="33%">
 
-### Mobile 
-<div align="center">  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://github.com/Adrianhammer/assets/blob/main/Swift%20Vector%20Icon.svg" alt="Swift" height="50"/></a>  
-</div>
-
-  
 </td></tr></table>  
 
 <br/>  
