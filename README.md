@@ -6,7 +6,8 @@
   
 
 - 🌱 I’m currently learning C#/.NET 9 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="17" /></a>
-& Swift <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://github.com/Adrianhammer/assets/blob/main/Swift%20Vector%20Icon.svg" alt="Swift" height="17"/></a>  
+& JS <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="15" />
+
 
 
 - 📫 How to reach me: adrian10hammer@gmail.com
