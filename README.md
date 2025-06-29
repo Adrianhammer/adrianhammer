@@ -5,8 +5,7 @@
 ### <div align="center">Hi! I'm Adrian, I work with cloud engineering ☁️</div>  
   
 
-- 🌱 I’m currently learning C#/.NET 9 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="17" /></a>
-& JS <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="15" />
+- 🌱 I’m currently learning C#/.NET <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="17" /></a>
 
 
 
