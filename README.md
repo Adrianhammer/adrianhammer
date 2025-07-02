@@ -62,21 +62,12 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>   
 
 
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/adrian-hammer-9861201a7" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## Github Stats
 
-<br/>  
-
-
-## Github Stats  
+![adrianhammer github-stats](https://stats.dooboo.io/api/github-stats?login=adrianhammer)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=olros&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,stars" />-->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adrianhammer&count_private=true&hide=stars" />
@@ -86,11 +77,16 @@
 </a>
 <br/>  
 
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/adrian-hammer-9861201a7" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
   
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1171496064&cover_image=true&theme=default" /></div>  
+<br/> 
+  
 
 <br/>  
 
