@@ -68,10 +68,12 @@
 ## Github Stats
 
 ![adrianhammer github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=adrianhammer)
+<!--
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianhammer&layout=compact" />
 </a>
-<br/>  
+<br/>
+-->
 
 ## Connect with me  
 <div align="center">
