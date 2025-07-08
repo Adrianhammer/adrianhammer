@@ -6,10 +6,8 @@
   
 
 - 🌱 I’m currently learning C#/.NET <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="17" /></a>
-
-
-
 - 📫 How to reach me: adrian10hammer@gmail.com
+- 🏠 https://adrianhammer.dev/
   
 
 <br/>  
