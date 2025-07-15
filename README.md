@@ -1,4 +1,4 @@
-# Hi! I'm Adrian, Developer and IT consultant ☁️
+# Hi! I'm Adrian, Developer and IT cloud platform consultant ☁️
 
 - 🌱 I’m currently learning C#/.NET <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="17" /></a>
 - 👨‍💻 Currently working as an IT Consultant in Oslo
@@ -52,6 +52,7 @@
 <div align="center">
 
 [![Adrian](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadrianhammer%2F&subtitle=Adrian&size=wide)](https://www.linkedin.com/in/adrianhammer/)
+[![adrian10hammer@gmail.com](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=adrian10hammer%40gmail.com&size=wide)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=adrian10hammer%40gmail.com&size=wide)
 
 ---
 
