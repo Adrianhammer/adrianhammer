@@ -3,7 +3,7 @@
 
 I’m a developer and IT cloud consultant crafting lean, nimble solutions that free you to focus on what matters—business breakthroughs or binge-worthy weekends. I’m passionate about great design and cool solutions.
 
-🌱 I’m currently learning C#/.NET C# 
+🌱 I’m currently learning C# & .NET 
 
 👨‍💻 Currently working as an IT Consultant in Oslo 
 
