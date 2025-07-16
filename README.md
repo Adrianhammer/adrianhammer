@@ -1,4 +1,4 @@
-### Hi! I'm **Adrian**, Developer and IT cloud platform consultant ☁️
+### Hi!👋 I'm **Adrian**, Developer and IT cloud platform consultant ☁️
 
 
 I love turning design ideas into cloud-native automation solutions with C#/.NET—making systems faster, more reliable, and effortless to manage.
@@ -7,7 +7,7 @@ I love turning design ideas into cloud-native automation solutions with C#/.NET�
 
 👨‍💻 Currently working as an IT Consultant in Oslo 
 
-📫 Reach me @ adrian10hammer@gmail.com 
+📫 Reach me @ @gmail.com 
 
 💼 Connect with me @ [LinkedIn](https://www.linkedin.com/in/adrianhammer/) 
 
