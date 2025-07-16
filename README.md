@@ -1,7 +1,7 @@
 ### Hi!👋 I'm **Adrian**, Developer and Cloud Platform Consultant ☁️
 
 
-I love turning design ideas into cloud-native automation solutions with C#/.NET—making systems faster, more reliable, and effortless to manage.
+I’m Adrian, a developer and IT cloud consultant crafting lean, nimble solutions that free you to focus on what matters—business breakthroughs or binge-worthy weekends. I’m passionate about great design and cool solutions.
 
 🌱 I’m currently learning C#/.NET C# 
 
