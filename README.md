@@ -7,7 +7,7 @@ I’m a developer and IT cloud consultant crafting lean, nimble solutions that f
 
 👨‍💻 Currently working as an IT Consultant in Oslo 
 
-📫 Reach me @ @gmail.com 
+📫 Mail me @ adrian10hammer@gmail.com 
 
 💼 Connect with me @ [LinkedIn](https://www.linkedin.com/in/adrianhammer/) 
 
