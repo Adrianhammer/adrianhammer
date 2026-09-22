@@ -1,17 +1,15 @@
-### Hi!👋 I'm **Adrian**, Developer and Cloud Platform Engineer Consultant ☁️
+### Hi!👋 I'm **Adrian**, Developer and Cloud Platform Engineer Consultant (Currently a student at ISEG, Lisboa!)☁️
 
 
-I’m a developer and IT cloud consultant creating fun stuff.
+I’m a developer and IT cloud consultant creating fun stuff. I have recently started my masters at ISEG, Lisboa
 
-🌱 I’m currently learning C# & .NET 
-
-👨‍💻 Currently working as an IT Consultant in Oslo 
+👨‍💻 Been working as an IT Consultant in Oslo, currently studying fulltime
 
 📫 Mail me @ adrian10hammer@gmail.com 
 
 💼 Connect with me @ [LinkedIn](https://www.linkedin.com/in/adrianhammer/) 
 
-🏠 https://adrianhammer.dev/ 
+🏠 ssh ssh.adrianhammer.dev
 
 ## GitHub Stats
 <div align="center">
