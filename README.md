@@ -11,6 +11,8 @@ I’m a developer and IT cloud consultant creating fun stuff. I have recently st
 
 🏠 ssh ssh.adrianhammer.dev
 
+If you are a recruiter :) - Most of my repos are homelab or infrastructure based and therefore private 😁
+
 ## GitHub Stats
 <div align="center">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=adrianhammer" alt="adrianhammer github-stats" width="60%" />
