@@ -3,7 +3,7 @@
 
 I’m a developer and IT cloud consultant creating fun stuff. I have recently started my masters at ISEG, Lisboa
 
-👨‍💻 Been working as an IT Consultant in Oslo, currently studying fulltime
+👨‍💻 Been working as an IT Consultant in Oslo, currently studying fulltime in Lisbon
 
 📫 Mail me @ adrian10hammer@gmail.com 
 
