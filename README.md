@@ -1,17 +1,13 @@
-### Hi!👋 I'm **Adrian**, Developer and Cloud Platform Engineer Consultant (Currently a student at ISEG, Lisboa!)☁️
+### Hi!👋 I'm **Adrian**, IT Consultant / Cloud Platform Engineer (Currently a student at ISEG, Lisboa!)☁️
 
 
-I’m a developer and IT cloud consultant creating fun stuff. I have recently started my masters at ISEG, Lisboa
-
-👨‍💻 Been working as an IT Consultant in Oslo, currently studying fulltime in Lisbon
+👨‍💻 Been working in Oslo for three years but just started my masters at ISEG, Lisboa 🇵🇹
 
 📫 Mail me @ adrian10hammer@gmail.com 
 
 💼 Connect with me @ [LinkedIn](https://www.linkedin.com/in/adrianhammer/) 
 
-🏠 ssh ssh.adrianhammer.dev
-
-If you are a recruiter :) - Most of my repos are homelab or infrastructure based and therefore private 😁
+🏠 open your terminal and type ```ssh ssh.adrianhammer.dev``` to see my very small portfolio while I'm rebuilding my site ✌️
 
 ## GitHub Stats
 <div align="center">
