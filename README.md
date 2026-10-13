@@ -7,7 +7,7 @@
 
 💼 Connect with me @ [LinkedIn](https://www.linkedin.com/in/adrianhammer/) 
 
-🏠 open your terminal and type ```ssh ssh.adrianhammer.dev``` to see my very small portfolio while I'm rebuilding my site ✌️
+🏠 ```ssh ssh.adrianhammer.dev```
 
 ## GitHub Stats
 <div align="center">
